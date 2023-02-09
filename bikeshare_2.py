@@ -109,6 +109,7 @@ def score():
 print("4 out of 4(
 def printinfo():
 print ("Noura")
+print("pharmD")
     # Display counts of user types
 
 
