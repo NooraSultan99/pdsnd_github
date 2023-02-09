@@ -107,6 +107,8 @@ def user_stats(df):
 
 def score():
 print("4 out of 4(
+def printinfo():
+print ("Noura")
     # Display counts of user types
 
 
