@@ -7,7 +7,7 @@ Feb.2023
 Bikeshare project 
 
 ### Description
-Describe what your project is about and what it does
+analyzing data of three cities
 
 ### Files used
 three files was used 
